@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1zon" alt="m1zon" /></a> </p>
 
-- 🔭 I’m currently working at [Lucid Motors](https://www.lucidmotors.com/)
+- 🔭 I’m currently working at [Amazon Web Services](https://aws.amazon.com/),[Ex Lucid Motors](https://www.lucidmotors.com/)
 
-- 🌱 I’m currently learning **Full Stack development**
+- 🌱 I’m **Back-end developer**
 
 - 👨‍💻 All of my projects are available at [https://m1zon.github.io/portfolio/](https://m1zon.github.io/portfolio/)
-
-- 💬 Ask me about **Jenkins, Python, Bash scripting, MERN**
 
 - 📫 How to reach me **mukhammadnozim.islamov@gmail.com**
 
